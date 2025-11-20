@@ -1,17 +1,16 @@
-Hi 👋 My name is Loka Siva Ganesh Reddy
+Hi, My name is Loka Siva Ganesh Reddy
 =======================================
 
-👨‍💻 BTech Student | Web Developer | Tech Enthusiast
+👨‍💻 BTech Graduate | Data Engineer | Web Developer | Tech Enthusiast
 -----------------------------------------------------
 
-Passionate fourth-year BTech student specializing in web development with expertise in the MERN stack (MongoDB, Express.js, React, Node.js) and Python. Proficient in data structures, algorithms, SQLite, and database management systems (DBMS). Dedicated to building dynamic and scalable web applications and continuously exploring new technologies to enhance my skills. Feel free to connect or check out my projects!
+Passionate  BTech Graduate specializing in Data Engineering & Web Development with expertise in the MERN stack (MongoDB, Express.js, React, Node.js) and Python and Learing Data Engineering . Proficient in data structures, algorithms, SQLite, and database management systems (DBMS). Dedicated to building dynamic web applications and Scalable Data Piplines continuously exploring new technologies to enhance my skills.
 
 * 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [vlokasiva2003@gmail.com](mailto:vlokasiva2003@gmail.com)
-* 🚀  I'm currently working on [Faculty Performance Analysis System](http://anuragfaculty.vercel.app/)
-* 🧠  I'm learning React Hooks
-* 🤝  I'm open to collaborating on Web Development Projects
-* ⚡  "It's not who I am underneath, but what I do that defines me." — Batman 🦇
+* 🚀  I'm currently Exploring Data Engineering and Messaging Queues
+* 🧠  I'm learning IBM MQ
+* 🤝  I'm open to collaborating on Web Development Projects / Data Engineering Projects
 
 ### Skills
 
