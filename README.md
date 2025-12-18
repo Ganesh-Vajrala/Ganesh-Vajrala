@@ -8,8 +8,8 @@ Passionate  BTech Graduate specializing in Data Engineering & Web Development wi
 
 * 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [vlokasiva2003@gmail.com](mailto:vlokasiva2003@gmail.com)
-* 🚀  I'm currently Exploring Data Engineering and Messaging Queues
-* 🧠  I'm learning IBM MQ
+* 🚀  I'm currently Exploring Data Engineering and Messaging Queues.
+* 🧠  I'm learning IBM MQ and Kafka.
 * 🤝  I'm open to collaborating on Web Development Projects / Data Engineering Projects
 
 ### Skills
